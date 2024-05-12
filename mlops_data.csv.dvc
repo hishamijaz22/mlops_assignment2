@@ -1,0 +1,5 @@
+outs:
+- md5: 03ee56d644a9baad3bead08e8a188ae9
+  size: 10884
+  hash: md5
+  path: mlops_data.csv
